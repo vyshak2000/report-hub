@@ -118,7 +118,3 @@ Please respect each source's terms of use and rate limits.
 ## Disclaimer
 
 Report Hub is an aggregation and visualization tool for personal and educational use. It makes no guarantees about the accuracy, completeness, or timeliness of upstream data, and its heuristic scores should not be used as the sole basis for security decisions.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
