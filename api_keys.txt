@@ -1,0 +1,10 @@
+# Cyber Intel Suite - API keys
+# One KEY=VALUE pair per line. Lines starting with # are ignored.
+# Leave a value blank (or delete the line) to fall back to unauthenticated
+# access where the source supports it - slower and rate-limited, but still
+# works (CVE Watch in particular gets much slower on the 365-day section without NVD_API_KEY).
+# This file must sit in the same folder as cyber_intel_suite.py.
+# Keep it out of version control / anything you share publicly.
+
+NVD_API_KEY=<your-key-here>
+RANSOMWARE_LIVE_API_KEY=<your-key-here>
