@@ -18,7 +18,7 @@ Each run creates a folder like `reports/15JUL26-2033/` containing all four repor
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/report-hub.git
+git clone https://github.com/vyshak2000/report-hub.git
 cd report-hub
 pip install requests feedparser
 python cyber_intel_suite.py
